@@ -1,0 +1,4 @@
+train: "train/images"
+val: "valid/images"
+nc: 6
+names: ['Aircraft', 'Helicopter', 'person', 'Tank', 'Truck', 'weapon']
