@@ -73,9 +73,9 @@ source_path = r"your/path/to/test_video.mp4"
 
 ▶️ How To Run
 Step 1 — Run on Laptop first:
-python laptop_yolo.py
-Step 2 — Run on Raspberry Pi:
 python yolov8.py
+Step 2 — Run on Raspberry Pi:
+python laptop_yolo.py
 
 📊 Results
 MetricValueModelYOLOv8mDetection Speed20 FPSConfidence Threshold0.5Tracked ObjectsSoldiers, Tanks, Aircraft, Trucks, Guns
