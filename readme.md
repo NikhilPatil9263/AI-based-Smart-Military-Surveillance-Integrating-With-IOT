@@ -12,6 +12,8 @@ A real-time intelligent military surveillance system that automatically detects 
 ✅ Works on Raspberry Pi (edge deployment)
 ✅ FPS display and bounding box visualization
 
+output: outputs/output image.jpeg
+
 
 🛠️ Tech Stack
 CategoryTechnologyObject DetectionYOLOv8 (Ultralytics)Object TrackingByteTrackComputer VisionOpenCVDeep LearningPyTorchIoT HardwareRaspberry Pi,  SystemGSM Module SIM800LPhysical ResponseServo MotorUIStreamlitLanguagePython
