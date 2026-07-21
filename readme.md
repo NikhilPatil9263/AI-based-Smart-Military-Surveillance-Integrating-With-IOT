@@ -12,7 +12,7 @@ A real-time intelligent military surveillance system that automatically detects 
 ✅ Works on Raspberry Pi (edge deployment)
 ✅ FPS display and bounding box visualization
 
-output: outputs/output image.jpeg
+
 
 
 🛠️ Tech Stack
