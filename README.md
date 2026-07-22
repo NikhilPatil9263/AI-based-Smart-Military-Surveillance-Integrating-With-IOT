@@ -17,7 +17,7 @@
 
 An intelligent surveillance system that detects military threats (soldiers, tanks, weapons, vehicles) in real-time using **YOLOv8 deep learning** and triggers automated responses via **IoT components**. The system combines edge computing (Raspberry Pi) with cloud-grade AI inference, enabling autonomous threat response without human intervention.
 
-**Key Achievement:** 90% mAP50 accuracy, 151 FPS on Raspberry Pi with ByteTrack object persistence.
+**Key Achievement:** 90% mAP50 accuracy, 65+ FPS on Raspberry Pi with ByteTrack object persistence.
 
 ---
 
